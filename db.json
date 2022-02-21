@@ -1,11 +1,9 @@
 {
-	"v1": {
-		"Analytics": {
-			"report": {
-				"PriceListMaintenance": {
-					"PriceTrend": "https://na2-maxtst.zilliant.com/#/site/pmdemo3002/views/MS21_CostWaterfall/CostWaterfallBefore?:iid=1"
-				}
-			}
+
+		"Analytics": 
+		[
+		{
+			"PriceTrend": "https://na2-maxtst.zilliant.com/#/site/pmdemo3002/views/MS21_CostWaterfall/CostWaterfallBefore?:iid=1"
 		}
-	}
+		]
 }
