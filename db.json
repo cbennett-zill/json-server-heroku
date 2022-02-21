@@ -3,7 +3,7 @@
 		"Analytics": 
 		[
 		{
-					"PriceTrend": "https://na2-maxtst.zilliant.com/#/site/pmdemo3002/views/MS21_CostWaterfall/CostWaterfallBefore?:iid=1"
+			"url": "https://na2-maxtst.zilliant.com/#/site/pmdemo3002/views/MS21_CostWaterfall/CostWaterfallBefore?:iid=1"
 		}
 		]
 }
