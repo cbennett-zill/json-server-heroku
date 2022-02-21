@@ -1,16 +1,11 @@
 {
-  "posts":[
-    {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
-  ]
+	"v1": {
+		"Analytics": {
+			"report": {
+				"PriceListMaintenance": {
+					"PriceTrend": "https://na2-maxtst.zilliant.com/#/site/pmdemo3002/views/MS21_CostWaterfall/CostWaterfallBefore?:iid=1"
+				}
+			}
+		}
+	}
 }
